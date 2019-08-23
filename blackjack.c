@@ -104,9 +104,9 @@ int main(){
 	return 0;
 }
 /*
-Gives random between 2 given number
-1 - returns 1 points
-2 - returns 11 points
+	Gives random between 2 given number
+	1 - returns 1 points
+	2 - returns 11 points
 */
 int randfor2(){
 	int chosen = ((rand()) % (2 - 1 + 1) + 1);
